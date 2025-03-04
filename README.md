@@ -1,7 +1,3 @@
-"# Log" 
+Log to Public
 
-test123
-
-test456
-
-test789
+整理一些LOG資料
